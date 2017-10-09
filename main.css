@@ -1,0 +1,52 @@
+h1 {
+    color: #008cff;
+    font-size: 90px;
+    text-align: center;
+    border: solid 10px;
+    border-color: black;
+  }
+
+  h2 {
+      color: #008cff;
+      font-size: 50px;
+      border-left: solid 5px;
+      border-color: black;
+      border-bottom: solid 5px;
+      border-bottom-color: black;
+  }
+
+body {
+   background-color: #8d96a3;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: 700px;
+  }
+h3 {
+   font-size: 30px;
+   color: #008cff;
+}
+
+img {
+  max-width: 100%;
+}
+
+p {
+  line-height: 1.6;
+  font-size: 20px;
+  margin: 20px;
+  text-indent: 30px;
+  line-height: 1.5;
+}
+
+a:visited {
+   color: red;
+}
+
+ol {
+   font-size: 20px;
+   line-height: 1.5;
+}
+ ul{
+   font-size: 20px;
+   line-height: 1.5;
+}
